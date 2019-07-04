@@ -1,4 +1,4 @@
-from CashTable import addCash,CheckCash
+from cashtable import addCash,CheckCash
 import unittest
 import time
 
